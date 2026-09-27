@@ -696,7 +696,7 @@ GitHub repository with another README.
 Replace `YOUR_USERNAME` with your GitHub username:
 
 ``` bash
-git remote add origin https://github.com/YOUR_USERNAME/git-stash-demo.git
+git remote add origin https://github.com/ramupalanki/git-stash-demo.git
 ```
 
 Verify:
@@ -888,7 +888,7 @@ git branch -a
 git log --oneline --all --decorate --graph
 
 # Connect GitHub repository
-git remote add origin https://github.com/YOUR_USERNAME/git-stash-demo.git
+git remote add origin https://github.com/ramupalanki/git-stash-demo.git
 
 # Push all branches
 git push --all origin
@@ -997,7 +997,7 @@ After pushing the project, replace the placeholder below with your
 public GitHub repository URL:
 
 ``` text
-https://github.com/YOUR_USERNAME/git-stash-demo
+https://github.com/ramupalanki/git-stash-demo
 ```
 
 ## Submission
